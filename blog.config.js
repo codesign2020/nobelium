@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'sherlocklau',
-  author: Sherlock Lau',
+  author: 'Sherlock Lau',
   email: 'sherlocklau2020@outlook.com',
   link: '#',
   description: 'This gonna be an awesome website.',
